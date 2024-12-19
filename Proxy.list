@@ -142,6 +142,13 @@ IP-CIDR,173.194.0.0/16,no-resolve
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 
+#影视
+DOMAIN-SUFFIX,hdhive.online
+DOMAIN-SUFFIX,meijumi.com
+DOMAIN-SUFFIX,xpanpan.site
+DOMAIN-SUFFIX,lvdoui.top
+
+
 # Steam
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
