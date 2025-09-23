@@ -196,7 +196,7 @@ DOMAIN-SUFFIX,tmgm.com
 DOMAIN-SUFFIX,plexapp.com
 DOMAIN-SUFFIX,plexmediaserver.com
 DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,ip111.cn
+#DOMAIN-SUFFIX,ip111.cn
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ip-score.com
 DOMAIN-SUFFIX,dnsleaktest.com
